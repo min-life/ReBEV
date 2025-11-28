@@ -35,31 +35,31 @@ The system acts as a trusted intermediary to ensure safe, secure, and transparen
 
 ### For Users
 
-- 🔐 **User Authentication**: Secure login/register with JWT tokens and Google OAuth integration
-- 🛵 **Post Management**: Create, edit, and manage listings for electric motorcycles and batteries
-- 🛒 **Shopping Cart**: Add items to cart and manage orders
-- ⭐ **Favorites**: Save favorite posts for quick access
-- 📦 **Order Tracking**: Track order status and delivery progress
-- 💬 **Real-time Chat**: Communicate with sellers through messaging system
-- ⚠️ **Complaint System**: Report issues and track complaint status
-- 💰 **Transaction History**: View all purchase and sales history
-- ⭐ **Review System**: Rate and review sellers after transactions
+- **User Authentication**: Secure login/register with JWT tokens and Google OAuth integration
+- **Post Management**: Create, edit, and manage listings for electric motorcycles and batteries
+- **Shopping Cart**: Add items to cart and manage orders
+- **Favorites**: Save favorite posts for quick access
+- **Order Tracking**: Track order status and delivery progress
+- **Real-time Chat**: Communicate with sellers through messaging system
+- **Complaint System**: Report issues and track complaint status
+- **Transaction History**: View all purchase and sales history
+- **Review System**: Rate and review sellers after transactions
 
 ### For Sellers
 
-- 📝 **Product Listing**: List electric vehicles and batteries with detailed specifications
-- 📊 **Seller Dashboard**: Manage inventory and track sales performance
-- 💳 **Payment Management**: Handle transactions securely through the platform
-- 📦 **Package Management**: Auto-cancel expired packages with cron jobs
-- 🚚 **Delivery Integration**: Coordinate with delivery services via webhooks
+- **Product Listing**: List electric vehicles and batteries with detailed specifications
+- **Seller Dashboard**: Manage inventory and track sales performance
+- **Payment Management**: Handle transactions securely through the platform
+- **Package Management**: Auto-cancel expired packages with cron jobs
+- **Delivery Integration**: Coordinate with delivery services via webhooks
 
 ### For Admins
 
-- 📈 **Statistics Dashboard**: View platform analytics and user statistics
-- 👥 **User Management**: Manage user accounts and seller verification
-- 🏷️ **Category Management**: Create and update product categories
-- 📋 **Complaint Management**: Handle user complaints and disputes
-- 💸 **Auto Transfer**: Automated payment transfers with scheduled jobs
+- **Statistics Dashboard**: View platform analytics and user statistics
+- **User Management**: Manage user accounts and seller verification
+- **Category Management**: Create and update product categories
+- **Complaint Management**: Handle user complaints and disputes
+- **Auto Transfer**: Automated payment transfers with scheduled jobs
 
 ## Getting Started
 
